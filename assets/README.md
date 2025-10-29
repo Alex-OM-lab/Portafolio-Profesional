@@ -1,1 +1,0 @@
-Bueans, aqui se guardan elementos que utilizo en las practicas de este directorio, se emplean vinculos absolutos como "" para que cada archivo muestre el elemento correspondiente, podras ver que de momento, solo hay imagenes.
